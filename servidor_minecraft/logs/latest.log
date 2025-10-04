@@ -30,3 +30,8 @@
 [21:32:49] [Server thread/INFO]: Running delayed init tasks
 [21:32:49] [Server thread/INFO]: Done (12.187s)! For help, type "help"
 [21:32:49] [Server thread/INFO]: Timings Reset
+[21:49:58] [User Authenticator #0/INFO]: UUID of player _ItsSam is e085de08-dde4-371b-8b53-9e3baa457839
+[21:50:00] [Server thread/INFO]: _ItsSam joined the game
+[21:50:00] [Server thread/INFO]: _ItsSam[/127.229.87.54:47069] logged in with entity id 338 at ([world]8.5, 110.0, -5.5)
+[21:50:09] [Server thread/INFO]: _ItsSam lost connection: Disconnected
+[21:50:09] [Server thread/INFO]: _ItsSam left the game
