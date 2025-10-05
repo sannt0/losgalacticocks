@@ -139,3 +139,14 @@
 [02:42:21] [Server thread/INFO]: RoxyBMX has made the advancement [Suit Up]
 [02:43:20] [Server thread/INFO]: Villager EntityVillager['Nitwit'/15248, uuid='4acf229b-91fa-493f-9823-efa5cd5ab139', l='ServerLevel[world]', x=-234.88, y=71.00, z=277.48, cpos=[-15, 17], tl=18519, v=true] died, message: 'Nitwit was slain by RoxyBMX'
 [02:44:18] [Server thread/INFO]: Onlybanzell issued server command: /msg RoxyBMX bajo tierra?
+[02:46:06] [Server thread/INFO]: Villager EntityVillager['Nitwit'/19054, uuid='6e15471d-50e7-489e-bcd0-8998f52d5ffb', l='ServerLevel[world]', x=256.72, y=63.00, z=650.10, cpos=[16, 40], tl=25777, v=true] died, message: 'Nitwit was slain by dieguito'
+[02:47:13] [Server thread/INFO]: RoxyBMX has made the advancement [Stone Age]
+[02:49:15] [Server thread/INFO]: dieguito lost connection: Disconnected
+[02:49:15] [Server thread/INFO]: dieguito left the game
+[02:49:27] [User Authenticator #11/INFO]: UUID of player dieguito is b22d7525-fd81-364c-87d0-a544806c759c
+[02:49:27] [Server thread/INFO]: dieguito joined the game
+[02:49:27] [Server thread/INFO]: dieguito[/127.174.251.186:58197] logged in with entity id 31292 at ([world]270.89536448817717, 63.0, 651.3701181794262)
+[02:49:50] [Server thread/INFO]: dieguito issued server command: /msg ATLAS1329 267 651
+[02:50:30] [Server thread/INFO]: RoxyBMX has made the advancement [Monster Hunter]
+[02:52:46] [Server thread/INFO]: Onlybanzell has made the advancement [Not Today, Thank You]
+[02:52:52] [Server thread/INFO]: dieguito issued server command: /msg ATLAS1329 267 651
