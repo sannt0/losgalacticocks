@@ -1,0 +1,15 @@
+{
+	id: "b22d7525-fd81-364c-87d0-a544806c759c"
+	type: "player"
+	player_name: "dieguito"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "dieguito"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8459"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

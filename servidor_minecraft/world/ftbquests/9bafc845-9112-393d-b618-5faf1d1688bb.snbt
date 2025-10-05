@@ -1,0 +1,24 @@
+{
+	version: 1
+	uuid: "9bafc8459112393db6185faf1d1688bb"
+	name: "vectorgw#9bafc845"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		7DF2002BF8966859: 1
+	}
+	started: {
+		5DEC625AAF61ADAE: 1759682084080L
+		08A3CE628804D7D6: 1759682084080L
+		0000000000000001: 1759682084080L
+		7DF2002BF8966859: 1759682084080L
+	}
+	completed: {
+		5DEC625AAF61ADAE: 1759682084080L
+		7DF2002BF8966859: 1759682084080L
+	}
+	claimed_rewards: {
+		"9bafc8459112393db6185faf1d1688bb:3BE249E997A6481F": 1759682084080L
+	}
+	player_data: { }
+}

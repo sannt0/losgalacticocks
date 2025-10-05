@@ -1,0 +1,17 @@
+{
+	id: "9ba5c0a2-27a2-31ff-8ed9-61b85403c113"
+	type: "player"
+	player_name: "OnlyBanzell"
+	ranks: {
+		9ba5c0a2-27a2-31ff-8ed9-61b85403c113: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "OnlyBanzell"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7459"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

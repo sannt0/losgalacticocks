@@ -1,0 +1,28 @@
+{
+	id: "e8464618-2242-4932-b8d7-b0e093826843"
+	type: "party"
+	owner: "e085de08-dde4-371b-8b53-9e3baa457839"
+	ranks: {
+		b22d7525-fd81-364c-87d0-a544806c759c: "member"
+		e085de08-dde4-371b-8b53-9e3baa457839: "owner"
+		9ba5c0a2-27a2-31ff-8ed9-61b85403c113: "invited"
+		7f7e7676-8562-3815-9320-e2bef0865938: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Las Farc"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF1D04"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1759685247713L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"_ItsSam\"}]}" }
+		{ from: "e085de08-dde4-371b-8b53-9e3baa457839", date: 1759686431366L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"ATLAS1329\"}]}" }
+		{ from: "e085de08-dde4-371b-8b53-9e3baa457839", date: 1759686436441L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"dieguito\"}]}" }
+		{ from: "e085de08-dde4-371b-8b53-9e3baa457839", date: 1759686439938L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"OnlyBanzell\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1759686446706L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ATLAS1329\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1759686464310L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"dieguito\"}]}" }
+		{ from: "e085de08-dde4-371b-8b53-9e3baa457839", date: 1759686473542L, text: "{\"text\":\"pene\"}" }
+	]
+	extra: { }
+}

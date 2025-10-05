@@ -1,0 +1,15 @@
+{
+	id: "e085de08-dde4-371b-8b53-9e3baa457839"
+	type: "player"
+	player_name: "_ItsSam"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "_ItsSam"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "9bafc845-9112-393d-b618-5faf1d1688bb"
+	type: "player"
+	player_name: "vectorgw"
+	ranks: {
+		9bafc845-9112-393d-b618-5faf1d1688bb: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "vectorgw"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFAC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
