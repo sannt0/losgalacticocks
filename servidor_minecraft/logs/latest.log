@@ -1,172 +1,32 @@
-[01:05:11] [User Authenticator #1/INFO]: UUID of player dieguito is b22d7525-fd81-364c-87d0-a544806c759c
-[01:05:11] [Server thread/INFO]: dieguito joined the game
-[01:05:11] [Server thread/INFO]: dieguito[/127.174.251.186:57179] logged in with entity id 541 at ([world]2.5, 101.0, -2.5)
-[01:05:36] [Server thread/INFO]: There are 1 of a max of 20 players online: dieguito
-[01:06:04] [Server thread/INFO]: dieguito has made the advancement [Sweet Dreams]
-[01:06:10] [Server thread/INFO]: [Not Secure] [Server] pene
-[01:06:25] [Async Chat Thread - #1/INFO]: [Not Secure] <dieguito> entra pa dartelo
-[01:06:32] [Server thread/INFO]: [Not Secure] [Server] ño
-[01:06:43] [Async Chat Thread - #0/INFO]: [Not Secure] <dieguito> samuel
-[01:06:47] [Async Chat Thread - #1/INFO]: [Not Secure] <dieguito> haz rangos
-[01:06:56] [Async Chat Thread - #0/INFO]: [Not Secure] <dieguito> pq vamos a hacer facciones
-[01:07:05] [Server thread/INFO]: dieguito has made the advancement [Isn't It Iron Pick]
-[01:07:09] [Server thread/INFO]: dieguito has made the advancement [Acquire Hardware]
-[01:07:22] [User Authenticator #2/INFO]: UUID of player Onlybanzell is 9d55aed4-6909-367b-a205-d41ffdccb1ab
-[01:07:22] [Server thread/INFO]: Onlybanzell joined the game
-[01:07:22] [Server thread/INFO]: Onlybanzell[/127.60.67.30:53643] logged in with entity id 851 at ([world]-9.5, 96.0, 3.5)
-[01:07:48] [Server thread/INFO]: dieguito has made the advancement [Stone Age]
-[01:08:50] [Server thread/INFO]: Onlybanzell was slain by dieguito
-[01:09:49] [Server thread/INFO]: Onlybanzell was slain by dieguito
-[01:11:05] [Server thread/INFO]: Onlybanzell has made the advancement [Stone Age]
-[01:11:34] [Server thread/INFO]: Onlybanzell has made the advancement [Getting an Upgrade]
-[01:11:49] [Server thread/INFO]: dieguito has made the advancement [Monster Hunter]
-[01:13:10] [Server thread/INFO]: Onlybanzell lost connection: Disconnected
-[01:13:10] [Server thread/INFO]: Onlybanzell left the game
-[01:13:38] [User Authenticator #3/INFO]: UUID of player Onlybanzell is 9d55aed4-6909-367b-a205-d41ffdccb1ab
-[01:13:38] [Server thread/INFO]: Onlybanzell joined the game
-[01:13:38] [Server thread/INFO]: Onlybanzell[/127.60.67.30:41885] logged in with entity id 2047 at ([world]15.300000011920929, 108.0, 4.39039939973255)
-[01:14:12] [Server thread/INFO]: Onlybanzell has made the advancement [Acquire Hardware]
-[01:14:36] [User Authenticator #3/INFO]: UUID of player ATLAS is 3acc3881-849c-3d93-b7ff-00851dd3ae3c
-[01:14:36] [Server thread/INFO]: ATLAS joined the game
-[01:14:36] [Server thread/INFO]: ATLAS[/127.229.87.54:59199] logged in with entity id 2218 at ([world]9.5, 113.0, 5.5)
-[01:15:04] [Server thread/INFO]: ATLAS lost connection: Disconnected
-[01:15:04] [Server thread/INFO]: ATLAS left the game
-[01:17:12] [Server thread/INFO]: Onlybanzell has made the advancement [Monster Hunter]
-[01:17:26] [Server thread/INFO]: Onlybanzell has made the advancement [Isn't It Iron Pick]
-[01:17:53] [User Authenticator #4/INFO]: UUID of player ATLAS1329 is 7f7e7676-8562-3815-9320-e2bef0865938
-[01:17:53] [Server thread/INFO]: ATLAS1329 joined the game
-[01:17:53] [Server thread/INFO]: ATLAS1329[/127.229.87.54:39661] logged in with entity id 2646 at ([world]-1.5, 105.0, 5.5)
-[01:18:31] [Server thread/INFO]: dieguito has made the advancement [Suit Up]
-[01:19:46] [Server thread/INFO]: Onlybanzell lost connection: Disconnected
-[01:19:46] [Server thread/INFO]: Onlybanzell left the game
-[01:20:10] [Server thread/INFO]: ATLAS1329 has made the advancement [Monster Hunter]
-[01:20:26] [Server thread/INFO]: ATLAS1329 has made the advancement [Sweet Dreams]
-[01:20:41] [Server thread/INFO]: Villager EntityVillager['Farmer'/189, uuid='94f0b21f-d719-4ed5-b417-5821184651a6', l='ServerLevel[world]', x=-9.30, y=85.00, z=36.30, cpos=[-1, 2], tl=272481, v=true] died, message: 'Farmer was slain by Zombie'
-[01:20:51] [Server thread/INFO]: Villager EntityVillager['Villager'/235, uuid='a9f55f75-cc8e-45b6-afce-c3c770104b53', l='ServerLevel[world]', x=-3.30, y=85.00, z=35.70, cpos=[-1, 2], tl=272679, v=true] died, message: 'Villager was slain by Zombie'
-[01:22:00] [Server thread/INFO]: dieguito has made the advancement [Diamonds!]
-[01:22:22] [Server thread/INFO]: dieguito has made the advancement [Sneak 100]
-[01:22:46] [Server thread/INFO]: ATLAS1329 was slain by Spider
-[01:25:00] [Server thread/INFO]: dieguito has made the advancement [Not Today, Thank You]
-[01:27:08] [Server thread/INFO]: ATLAS1329 has made the advancement [Acquire Hardware]
-[01:33:36] [Server thread/INFO]: dieguito lost connection: Disconnected
-[01:33:36] [Server thread/INFO]: dieguito left the game
-[01:36:02] [User Authenticator #5/INFO]: UUID of player dieguito is b22d7525-fd81-364c-87d0-a544806c759c
-[01:36:02] [Server thread/INFO]: dieguito joined the game
-[01:36:02] [Server thread/INFO]: dieguito[/127.174.251.186:60189] logged in with entity id 7269 at ([world]30.724312015970053, -13.0, -219.65340178487435)
-[01:36:12] [User Authenticator #5/INFO]: UUID of player Onlybanzell is 9d55aed4-6909-367b-a205-d41ffdccb1ab
-[01:36:12] [Server thread/INFO]: Onlybanzell joined the game
-[01:36:12] [Server thread/INFO]: Onlybanzell[/127.60.67.30:59713] logged in with entity id 7299 at ([world]-8.798804794897624, -9.0, -56.56208738918197)
-[01:42:56] [Server thread/INFO]: dieguito has made the advancement [Hot Stuff]
-[01:43:10] [Server thread/INFO]: ATLAS1329 went up in flames
-[01:43:46] [Server thread/INFO]: Onlybanzell has made the advancement [Diamonds!]
-[01:45:22] [Server thread/INFO]: dieguito has made the advancement [We Need to Go Deeper]
-[01:45:56] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/186, uuid='3c56e3d9-1ab4-4b17-99ed-bc56942a4533', l='ServerLevel[world]', x=-3.30, y=85.00, z=35.30, cpos=[-1, 2], tl=302790, v=true] died, message: 'Leatherworker was slain by Zombie'
-[01:46:05] [Server thread/INFO]: Villager EntityVillager['Farmer'/9, uuid='2bf62d62-84a8-4787-ae9a-a61bc08c2f6f', l='ServerLevel[world]', x=-3.30, y=85.00, z=35.70, cpos=[-1, 2], tl=302971, v=true] died, message: 'Farmer was slain by Zombie'
-[01:46:05] [Server thread/INFO]: ATLAS1329 lost connection: Disconnected
-[01:46:05] [Server thread/INFO]: ATLAS1329 left the game
-[01:47:30] [Server thread/INFO]: Onlybanzell has made the advancement [Suit Up]
-[01:48:28] [Async Chat Thread - #2/INFO]: [Not Secure] <Onlybanzell> 111 -242
-[01:48:41] [Async Chat Thread - #3/INFO]: [Not Secure] <Onlybanzell> 11 -15 -242
-[01:48:41] [Server thread/INFO]: dieguito has made the advancement [Ice Bucket Challenge]
-[01:53:44] [Server thread/INFO]: dieguito lost connection: Disconnected
-[01:53:44] [Server thread/INFO]: dieguito left the game
-[01:53:46] [User Authenticator #6/INFO]: UUID of player dieguito is b22d7525-fd81-364c-87d0-a544806c759c
-[01:53:46] [Server thread/INFO]: dieguito joined the game
-[01:53:46] [Server thread/INFO]: dieguito[/127.174.251.186:59179] logged in with entity id 11971 at ([world]67.32800693855904, -12.0, -243.3830945474697)
-[01:55:04] [Server thread/INFO]: Onlybanzell lost connection: Disconnected
-[01:55:04] [Server thread/INFO]: Onlybanzell left the game
-[01:55:07] [User Authenticator #7/INFO]: UUID of player Onlybanzell is 9d55aed4-6909-367b-a205-d41ffdccb1ab
-[01:55:07] [Server thread/INFO]: Onlybanzell joined the game
-[01:55:07] [Server thread/INFO]: Onlybanzell[/127.60.67.30:37547] logged in with entity id 12167 at ([world]138.83714044281336, -14.0, -236.624140071384)
-[02:03:04] [Server thread/INFO]: Onlybanzell lost connection: Disconnected
-[02:03:04] [Server thread/INFO]: Onlybanzell left the game
-[02:03:07] [User Authenticator #8/INFO]: UUID of player Onlybanzell is 9d55aed4-6909-367b-a205-d41ffdccb1ab
-[02:03:07] [Server thread/INFO]: Onlybanzell joined the game
-[02:03:07] [Server thread/INFO]: Onlybanzell[/127.60.67.30:56437] logged in with entity id 13828 at ([world]-38.052300967533505, 158.0, -260.17812802139196)
-[02:06:04] [User Authenticator #9/INFO]: UUID of player ATLAS1329 is 7f7e7676-8562-3815-9320-e2bef0865938
-[02:06:04] [Server thread/INFO]: ATLAS1329 joined the game
-[02:06:04] [Server thread/INFO]: ATLAS1329[/127.229.87.54:46925] logged in with entity id 14593 at ([world]5.699999988079071, 95.0, 18.63747591401969)
-[02:06:57] [Server thread/INFO]: Onlybanzell was slain by ATLAS1329
-[02:06:57] [Server thread/INFO]: ATLAS1329 has made the advancement [Isn't It Iron Pick]
-[02:06:57] [Server thread/INFO]: ATLAS1329 has made the advancement [Stone Age]
-[02:06:57] [Server thread/INFO]: ATLAS1329 has made the advancement [Diamonds!]
-[02:06:57] [Server thread/INFO]: ATLAS1329 has made the advancement [Getting an Upgrade]
-[02:06:57] [Server thread/INFO]: ATLAS1329 has made the advancement [Suit Up]
-[02:08:53] [Server thread/INFO]: ATLAS1329 was slain by Onlybanzell
-[02:09:46] [Server thread/INFO]: Onlybanzell hit the ground too hard
-[02:11:22] [Server thread/INFO]: dieguito has made the advancement [Take Aim]
-[02:11:32] [Server thread/INFO]: Onlybanzell was slain by ATLAS1329
-[02:14:33] [Server thread/INFO]: Onlybanzell has made the advancement [Sweet Dreams]
-[02:17:22] [Server thread/INFO]: dieguito issued server command: /msg ATLAS1329 97 79 233
-[02:28:56] [Server thread/INFO]: Onlybanzell has made the advancement [The Parrots and the Bats]
-[02:30:18] [User Authenticator #10/INFO]: UUID of player RoxyBMX is 1b19123f-66b6-3b8c-8158-dbafede9085a
-[02:30:18] [Server thread/INFO]: RoxyBMX joined the game
-[02:30:18] [Server thread/INFO]: RoxyBMX[/127.100.141.20:58153] logged in with entity id 22355 at ([world]4.5, 104.0, 8.5)
-[02:30:23] [Async Chat Thread - #5/INFO]: [Not Secure] <Onlybanzell> sergio
-[02:30:24] [Async Chat Thread - #6/INFO]: [Not Secure] <dieguito> sergio
-[02:30:28] [Async Chat Thread - #5/INFO]: [Not Secure] <dieguito> unete a la llamada
-[02:30:28] [Async Chat Thread - #6/INFO]: [Not Secure] <Onlybanzell> eres conmigo
-[02:30:33] [Async Chat Thread - #5/INFO]: [Not Secure] <RoxyBMX> k lo k
-[02:30:36] [Async Chat Thread - #6/INFO]: [Not Secure] <Onlybanzell> estos manes me traicionaron
-[02:30:38] [Async Chat Thread - #5/INFO]: [Not Secure] <RoxyBMX> voy
-[02:30:44] [Async Chat Thread - #6/INFO]: [Not Secure] <dieguito> msf
-[02:30:46] [Async Chat Thread - #7/INFO]: [Not Secure] <RoxyBMX> te encerraron por mil años?
-[02:30:48] [Async Chat Thread - #6/INFO]: [Not Secure] <dieguito> msg
-[02:32:17] [Server thread/INFO]: Onlybanzell issued server command: /msg RoxyBMX
-[02:32:26] [Server thread/INFO]: Onlybanzell issued server command: /msg RoxyBMX
-[02:33:32] [Server thread/INFO]: Onlybanzell issued server command: /msg RoxyBMX
-[02:33:35] [Async Chat Thread - #8/INFO]: [Not Secure] <dieguito> msg
-[02:33:45] [Server thread/INFO]: RoxyBMX issued server command: /MSG
-[02:33:46] [Server thread/INFO]: Onlybanzell issued server command: /msg dieguito
-[02:33:53] [Server thread/INFO]: Onlybanzell issued server command: /msg
-[02:33:55] [Server thread/INFO]: RoxyBMX issued server command: /msg
-[02:34:04] [Server thread/INFO]: RoxyBMX issued server command: /msg Onlybanzell hola
-[02:34:06] [Async Chat Thread - #9/INFO]: [Not Secure] <dieguito> "/msg (nombre de sergio) agfGSDVZK"
-[02:34:20] [Server thread/INFO]: RoxyBMX issued server command: /msg RoxyBMX
-[02:34:27] [Server thread/INFO]: Onlybanzell issued server command: /msg RoxyBMX -378 63 396
-[02:34:56] [Async Chat Thread - #8/INFO]: [Not Secure] <dieguito> 440 550
-[02:37:17] [Server thread/INFO]: RoxyBMX has made the advancement [Sweet Dreams]
-[02:37:22] [Async Chat Thread - #10/INFO]: [Not Secure] <RoxyBMX> zzzzz
-[02:37:23] [Async Chat Thread - #11/INFO]: [Not Secure] <RoxyBMX> eee
-[02:37:29] [Async Chat Thread - #10/INFO]: [Not Secure] <RoxyBMX> el sans
-[02:37:32] [Async Chat Thread - #11/INFO]: [Not Secure] <RoxyBMX> eee
-[02:37:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Onlybanzell> el trans
-[02:38:39] [Server thread/INFO]: RoxyBMX issued server command: /msg Onlybanzell hay una aldea aqui tu pasate por aca?
-[02:39:31] [Server thread/INFO]: Onlybanzell issued server command: /msg RoxyBMX donde andas
-[02:39:50] [Server thread/INFO]: RoxyBMX issued server command: /msg Onlybanzell
-[02:39:56] [Server thread/INFO]: RoxyBMX has made the advancement [Acquire Hardware]
-[02:42:05] [Server thread/INFO]: RoxyBMX has made the advancement [Isn't It Iron Pick]
-[02:42:21] [Server thread/INFO]: RoxyBMX has made the advancement [Suit Up]
-[02:43:20] [Server thread/INFO]: Villager EntityVillager['Nitwit'/15248, uuid='4acf229b-91fa-493f-9823-efa5cd5ab139', l='ServerLevel[world]', x=-234.88, y=71.00, z=277.48, cpos=[-15, 17], tl=18519, v=true] died, message: 'Nitwit was slain by RoxyBMX'
-[02:44:18] [Server thread/INFO]: Onlybanzell issued server command: /msg RoxyBMX bajo tierra?
-[02:46:06] [Server thread/INFO]: Villager EntityVillager['Nitwit'/19054, uuid='6e15471d-50e7-489e-bcd0-8998f52d5ffb', l='ServerLevel[world]', x=256.72, y=63.00, z=650.10, cpos=[16, 40], tl=25777, v=true] died, message: 'Nitwit was slain by dieguito'
-[02:47:13] [Server thread/INFO]: RoxyBMX has made the advancement [Stone Age]
-[02:49:15] [Server thread/INFO]: dieguito lost connection: Disconnected
-[02:49:15] [Server thread/INFO]: dieguito left the game
-[02:49:27] [User Authenticator #11/INFO]: UUID of player dieguito is b22d7525-fd81-364c-87d0-a544806c759c
-[02:49:27] [Server thread/INFO]: dieguito joined the game
-[02:49:27] [Server thread/INFO]: dieguito[/127.174.251.186:58197] logged in with entity id 31292 at ([world]270.89536448817717, 63.0, 651.3701181794262)
-[02:49:50] [Server thread/INFO]: dieguito issued server command: /msg ATLAS1329 267 651
-[02:50:30] [Server thread/INFO]: RoxyBMX has made the advancement [Monster Hunter]
-[02:52:46] [Server thread/INFO]: Onlybanzell has made the advancement [Not Today, Thank You]
-[02:52:52] [Server thread/INFO]: dieguito issued server command: /msg ATLAS1329 267 651
-[02:56:32] [Server thread/INFO]: Onlybanzell has made the advancement [Hot Stuff]
-[02:59:02] [Server thread/INFO]: RoxyBMX has made the advancement [Diamonds!]
-[02:59:51] [Server thread/INFO]: RoxyBMX has made the advancement [Not Today, Thank You]
-[03:00:47] [Server thread/INFO]: Onlybanzell lost connection: Disconnected
-[03:00:47] [Server thread/INFO]: Onlybanzell left the game
-[03:02:15] [User Authenticator #12/INFO]: UUID of player Onlybanzell is 9d55aed4-6909-367b-a205-d41ffdccb1ab
-[03:02:15] [Server thread/INFO]: Onlybanzell joined the game
-[03:02:15] [Server thread/INFO]: Onlybanzell[/127.60.67.30:48439] logged in with entity id 36569 at ([world]-238.69999998807907, -37.0, 329.7475471093891)
-[03:02:27] [Server thread/INFO]: Onlybanzell lost connection: Disconnected
-[03:02:27] [Server thread/INFO]: Onlybanzell left the game
-[03:03:47] [User Authenticator #13/INFO]: UUID of player Onlybanzell is 9d55aed4-6909-367b-a205-d41ffdccb1ab
-[03:03:47] [Server thread/INFO]: Onlybanzell joined the game
-[03:03:47] [Server thread/INFO]: Onlybanzell[/127.60.67.30:53563] logged in with entity id 37075 at ([world]-237.69999998807907, -38.0, 332.69999998807907)
-[03:03:55] [Server thread/INFO]: Onlybanzell lost connection: Disconnected
-[03:03:55] [Server thread/INFO]: Onlybanzell left the game
-[03:04:08] [User Authenticator #13/INFO]: UUID of player Onlybanzell is 9d55aed4-6909-367b-a205-d41ffdccb1ab
-[03:04:08] [Server thread/INFO]: Onlybanzell joined the game
-[03:04:08] [Server thread/INFO]: Onlybanzell[/127.60.67.30:49219] logged in with entity id 37166 at ([world]-238.6280507395897, -36.0, 327.976630669312)
-[03:04:53] [Server thread/INFO]: Onlybanzell lost connection: Disconnected
-[03:04:53] [Server thread/INFO]: Onlybanzell left the game
+[14:04:01] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:04:02] [ServerMain/INFO]: Loaded 7 recipes
+[14:04:03] [Server thread/INFO]: Starting minecraft server version 1.20
+[14:04:03] [Server thread/INFO]: Loading properties
+[14:04:03] [Server thread/INFO]: This server is running Paper version git-Paper-17 (MC: 1.20) (Implementing API version 1.20-R0.1-SNAPSHOT) (Git: c287e92)
+[14:04:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:04:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:04:03] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[14:04:03] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[14:04:03] [Server thread/INFO]: Default game type: SURVIVAL
+[14:04:03] [Server thread/INFO]: Generating keypair
+[14:04:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:04:03] [Server thread/INFO]: Using epoll channel type
+[14:04:03] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:04:03] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[14:04:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:04:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:04:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:04:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:04:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:04:04] [Server thread/INFO]: Preparing level "world"
+[14:04:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:04:04] [Server thread/INFO]: Time elapsed: 372 ms
+[14:04:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:04:04] [Server thread/INFO]: Time elapsed: 68 ms
+[14:04:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:04:04] [Server thread/INFO]: Time elapsed: 64 ms
+[14:04:04] [Server thread/INFO]: Running delayed init tasks
+[14:04:04] [Server thread/INFO]: Done (1.570s)! For help, type "help"
+[14:04:04] [Server thread/INFO]: Timings Reset
