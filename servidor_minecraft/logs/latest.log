@@ -59,3 +59,17 @@
 [01:42:56] [Server thread/INFO]: dieguito has made the advancement [Hot Stuff]
 [01:43:10] [Server thread/INFO]: ATLAS1329 went up in flames
 [01:43:46] [Server thread/INFO]: Onlybanzell has made the advancement [Diamonds!]
+[01:45:22] [Server thread/INFO]: dieguito has made the advancement [We Need to Go Deeper]
+[01:45:56] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/186, uuid='3c56e3d9-1ab4-4b17-99ed-bc56942a4533', l='ServerLevel[world]', x=-3.30, y=85.00, z=35.30, cpos=[-1, 2], tl=302790, v=true] died, message: 'Leatherworker was slain by Zombie'
+[01:46:05] [Server thread/INFO]: Villager EntityVillager['Farmer'/9, uuid='2bf62d62-84a8-4787-ae9a-a61bc08c2f6f', l='ServerLevel[world]', x=-3.30, y=85.00, z=35.70, cpos=[-1, 2], tl=302971, v=true] died, message: 'Farmer was slain by Zombie'
+[01:46:05] [Server thread/INFO]: ATLAS1329 lost connection: Disconnected
+[01:46:05] [Server thread/INFO]: ATLAS1329 left the game
+[01:47:30] [Server thread/INFO]: Onlybanzell has made the advancement [Suit Up]
+[01:48:28] [Async Chat Thread - #2/INFO]: [Not Secure] <Onlybanzell> 111 -242
+[01:48:41] [Async Chat Thread - #3/INFO]: [Not Secure] <Onlybanzell> 11 -15 -242
+[01:48:41] [Server thread/INFO]: dieguito has made the advancement [Ice Bucket Challenge]
+[01:53:44] [Server thread/INFO]: dieguito lost connection: Disconnected
+[01:53:44] [Server thread/INFO]: dieguito left the game
+[01:53:46] [User Authenticator #6/INFO]: UUID of player dieguito is b22d7525-fd81-364c-87d0-a544806c759c
+[01:53:46] [Server thread/INFO]: dieguito joined the game
+[01:53:46] [Server thread/INFO]: dieguito[/127.174.251.186:59179] logged in with entity id 11971 at ([world]67.32800693855904, -12.0, -243.3830945474697)
