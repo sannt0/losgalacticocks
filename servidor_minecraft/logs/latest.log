@@ -73,3 +73,13 @@
 [01:53:46] [User Authenticator #6/INFO]: UUID of player dieguito is b22d7525-fd81-364c-87d0-a544806c759c
 [01:53:46] [Server thread/INFO]: dieguito joined the game
 [01:53:46] [Server thread/INFO]: dieguito[/127.174.251.186:59179] logged in with entity id 11971 at ([world]67.32800693855904, -12.0, -243.3830945474697)
+[01:55:04] [Server thread/INFO]: Onlybanzell lost connection: Disconnected
+[01:55:04] [Server thread/INFO]: Onlybanzell left the game
+[01:55:07] [User Authenticator #7/INFO]: UUID of player Onlybanzell is 9d55aed4-6909-367b-a205-d41ffdccb1ab
+[01:55:07] [Server thread/INFO]: Onlybanzell joined the game
+[01:55:07] [Server thread/INFO]: Onlybanzell[/127.60.67.30:37547] logged in with entity id 12167 at ([world]138.83714044281336, -14.0, -236.624140071384)
+[02:03:04] [Server thread/INFO]: Onlybanzell lost connection: Disconnected
+[02:03:04] [Server thread/INFO]: Onlybanzell left the game
+[02:03:07] [User Authenticator #8/INFO]: UUID of player Onlybanzell is 9d55aed4-6909-367b-a205-d41ffdccb1ab
+[02:03:07] [Server thread/INFO]: Onlybanzell joined the game
+[02:03:07] [Server thread/INFO]: Onlybanzell[/127.60.67.30:56437] logged in with entity id 13828 at ([world]-38.052300967533505, 158.0, -260.17812802139196)
