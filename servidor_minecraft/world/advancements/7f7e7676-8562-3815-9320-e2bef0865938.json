@@ -332,6 +332,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-10-05 01:37:31 +0000",
       "bread": "2025-10-05 01:28:21 +0000"
     },
     "done": false
